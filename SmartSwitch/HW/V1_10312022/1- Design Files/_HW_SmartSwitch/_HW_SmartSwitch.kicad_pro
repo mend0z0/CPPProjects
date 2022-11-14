@@ -432,6 +432,14 @@
     [
       "db405876-e2bf-450e-9783-4639bdaea3df",
       "25AMP TRIAC, RGB LEDs"
+    ],
+    [
+      "0e342172-5fae-4e20-94be-6ec525f7c96c",
+      "CURRENT SENS"
+    ],
+    [
+      "b9b0a3e4-e858-43bf-979b-3426e146ee34",
+      "PB, RGB"
     ]
   ],
   "text_variables": {}

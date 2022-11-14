@@ -170,6 +170,18 @@
     )
   )
 
+  (sheet (at 161.29 193.04) (size 29.21 27.94) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid b9b0a3e4-e858-43bf-979b-3426e146ee34)
+    (property "Sheet name" "PB, RGB" (id 0) (at 161.29 192.3284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "[07]-PB, RGB.kicad_sch" (id 1) (at 161.29 221.5646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 266.7 101.6) (size 25.4 63.5)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
